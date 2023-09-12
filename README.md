@@ -1,6 +1,6 @@
 # Where's My Lab? - Unreal Engine + Blueprint Code
 
-Currently modelling UBC's ICICS/CS Building in Unreal Engine. Using Blueprint code for implementation. 
+Currently modelling UBC's ICICS/CS Building in Unreal Engine. Using C++ Blueprint code for implementation. 
 
 <img width="1080" alt="startscreen" src="https://user-images.githubusercontent.com/114884399/221375341-822c9e90-9800-4393-85f3-ec293738c74f.png">
 <img width="1053" alt="floorplanscreen" src="https://user-images.githubusercontent.com/114884399/221375344-c6e625a0-920b-4bd1-bfee-0dac1ff9d398.png">
